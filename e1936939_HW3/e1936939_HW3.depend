@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1482952115 source:c:\users\gunge\desktop\similasyon_deneme\cpp\e1936939_hw3\src\user.cpp
+	"user.h"
+
+1483535366 c:\users\gunge\desktop\similasyon_deneme\cpp\e1936939_hw3\include\user.h
+	<user.h>
+
+1483551977 source:c:\users\gunge\desktop\similasyon_deneme\cpp\e1936939_hw3\main.cpp
+	<iostream>
+	<fstream>
+	<user.h>
+	<string.h>
+	<sstream>
+
+1483551977 source:c:\users\gunge\desktop\e1936939_hw3\main.cpp
+	<iostream>
+	<fstream>
+	<user.h>
+	<string.h>
+	<sstream>
+
+1483535366 c:\users\gunge\desktop\e1936939_hw3\include\user.h
+	<user.h>
+
